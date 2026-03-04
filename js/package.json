@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "clipboard": "^2.0.11",
-    "dompurify": "^3.2.6",
+    "dompurify": "^3.3.1",
     "highlight.js": "^11.11.1",
     "lit": "^3.3.0",
     "marked": "^12.0.2"
@@ -32,7 +32,7 @@
     "@eslint/compat": "^1.2.9",
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.27.0",
-    "@types/dompurify": "^3.0.5",
+    "@types/dompurify": "^3.2.0",
     "@types/node": "^22.15.21",
     "@types/rstudio-shiny": "git+https://git@github.com/rstudio/shiny.git#v1.10.0",
     "@typescript-eslint/eslint-plugin": "^8.32.1",
